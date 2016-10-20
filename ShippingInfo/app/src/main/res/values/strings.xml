@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShippingInfo</string>
+    <string name="ship_view">View</string>
+    <string name="prod_select">Select Product</string>
+    <string name="date_select">Select Date</string>
+    <string name="ship_report">Report</string>
+    <string name="ship_update">Update</string>
+    <string name="ship_track">Track</string>
+    <string name="ship_delete">Delete</string>
+    <string name="ship_add">Add New Product</string>
+    <string name="product">Product Name</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="elevation">Elevation</string>
+    <string name="date">Date</string>
+    <string name="add_confirm">Add Product</string>
+    <string name="date_change">Change Date</string>
+    <string name="update_confirm">Update Product</string>
+    <string name="export">Export All Data</string>
+</resources>
